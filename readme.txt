@@ -2,11 +2,12 @@ How to use:
 
 1.  First open the Project via IntelliJ
 
-2. Open Xampp and compare the ports for a successful connection
+2. Open Xampp and compare the ports for a successful connection and insert the kiosk.sql file to your 
+   phpMyAdmin Server by clicking on import. Alternatively here is a link with the right steps: https://tinyurl.com/databaseimport
 
-3. Go to the Main Class and Run this Application
+3. Go to the Main Class in IntelliJ and Run this Application
 
-4. Window for Stockmanagement with Crud functions will appear
+4. Window for Stockmanagement with Crud functions will appear (JavaFx)
 
 5. Easily edit exsisting Products, insert new products or delete by selecting the product
 
